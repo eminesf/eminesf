@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Projetos
+### 🚀 Projetos próprios
 
 | | Projeto | Stack |
 |---|---|---|
@@ -20,8 +20,14 @@
 | 🦊 | **[FoxPromoções](https://github.com/eminesf/ml-ofertas)**: bot que encontra ofertas do Mercado Livre, faz a curadoria com IA (Claude) e publica no Telegram e num site próprio. · [**ver no ar**](https://foxpromocoes.vercel.app) | Next.js, Node, Express, Prisma, Docker, Claude API |
 | 🎲 | **[Zoiudo](https://github.com/eminesf/zoiudo)**: jogo de dados no navegador, local ou online com salas, chat e animações. · [**jogar**](https://zoiudo.vercel.app) | React, Firebase, Tailwind, Framer Motion |
 | 🖨️ | **[PokéPrinter BR](https://github.com/eminesf/pokeprinterbr)**: monta folhas de impressão de cartas Pokémon e gera o PDF no navegador, com medida exata e marcas de corte. | React 19, Vite, jsPDF |
-| 🎓 | **[ARISE Initiative](https://github.com/eminesf/hamza-arise)**: site de uma ONG de mentoria gratuita para estudantes em Nova Jersey (EUA). · [**ver no ar**](https://hamza-arise.vercel.app) | Vite, TypeScript, Vercel |
-| ✅ | **[Everest](https://github.com/eminesf/everest)**: desafio técnico de lista de tarefas, com testes e documentação de componentes. | React, Zustand, Zod, Vitest, Storybook |
+
+### 💼 Sites para clientes
+
+| | Cliente | Stack |
+|---|---|---|
+| 🎓 | **[ARISE Initiative](https://hamza-arise.vercel.app)**: site da ONG que oferece mentoria gratuita para estudantes em Nova Jersey (EUA). | Vite, TypeScript, Vercel |
+| 👨‍🏫 | **[Dr. Hamza Seidu Wedam](https://hamza-sooty.vercel.app)**: portfólio bilíngue (EN/PT-BR) do fundador da ARISE, com linha do tempo da carreira, conquistas e galeria de fotos. | React, Vite, i18n |
+| 🚑 | **[Northern Medical Transportation](https://hamza-northern-medical.vercel.app)**: site de uma transportadora de materiais médicos em Nova Jersey, trilíngue e com formulário de contato. | Vite, JavaScript, i18n, Web3Forms |
 
 ### 🛠️ Tecnologias
 
@@ -58,14 +64,18 @@ O melhor jeito de falar comigo é pelo [LinkedIn](https://www.linkedin.com/in/em
 
 **Hi, I'm Emiliano: Frontend Software Engineer** (React · TypeScript · Next.js). I build fast, simple interfaces, from prototype to production.
 
-**Projects**
+**Personal projects**
 
 - **[copy.](https://github.com/eminesf/copydot)**: online clipboard between devices. Paste text, images or files on one device and grab them on another, in real time, no sign-up. · [live](https://copydot.onrender.com)
 - **[FoxPromoções](https://github.com/eminesf/ml-ofertas)**: bot that finds Mercado Livre deals, curates them with AI (Claude) and publishes to Telegram and a website. · [live](https://foxpromocoes.vercel.app)
 - **[Zoiudo](https://github.com/eminesf/zoiudo)**: browser dice game, local or online with rooms, chat and animations. · [play](https://zoiudo.vercel.app)
 - **[PokéPrinter BR](https://github.com/eminesf/pokeprinterbr)**: builds printable Pokémon card proxy sheets and generates the PDF client-side, with exact sizing and crop marks.
-- **[ARISE Initiative](https://github.com/eminesf/hamza-arise)**: website for a nonprofit offering free student mentorship in New Jersey, USA. · [live](https://hamza-arise.vercel.app)
-- **[Everest](https://github.com/eminesf/everest)**: to-do app technical challenge, with tests and component docs.
+
+**Client websites**
+
+- **[ARISE Initiative](https://hamza-arise.vercel.app)**: website for a nonprofit offering free student mentorship in New Jersey, USA.
+- **[Dr. Hamza Seidu Wedam](https://hamza-sooty.vercel.app)**: bilingual (EN/PT-BR) portfolio for ARISE's founder, with career timeline, achievements and photo gallery.
+- **[Northern Medical Transportation](https://hamza-northern-medical.vercel.app)**: website for a medical courier company in New Jersey, trilingual with a contact form.
 
 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/emilianodasilveira).
 
