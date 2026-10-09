@@ -16,7 +16,7 @@
 
 | | Projeto | Stack |
 |---|---|---|
-| 📋 | **[copy.](https://github.com/eminesf/copydot)**: área de transferência online. Cole texto, imagens ou arquivos num aparelho e pegue no outro, em tempo real, sem cadastro. · [**ver no ar**](https://copydot.onrender.com) | React, TanStack Start, SSE |
+| 📋 | **[copydot](https://github.com/eminesf/copydot)**: área de transferência online. Cole texto, imagens ou arquivos num aparelho e pegue no outro, em tempo real, sem cadastro. · [**ver no ar**](https://copydot.onrender.com) | React, TanStack Start, SSE |
 | 🦊 | **[FoxPromoções](https://github.com/eminesf/ml-ofertas)**: bot que encontra ofertas do Mercado Livre, faz a curadoria com IA (Claude) e publica no Telegram e num site próprio. · [**ver no ar**](https://foxpromocoes.vercel.app) | Next.js, Node, Express, Prisma, Docker, Claude API |
 | 🎲 | **[Zoiudo](https://github.com/eminesf/zoiudo)**: jogo de dados no navegador, local ou online com salas, chat e animações. · [**jogar**](https://zoiudo.vercel.app) | React, Firebase, Tailwind, Framer Motion |
 | 🖨️ | **[PokéPrinter BR](https://github.com/eminesf/pokeprinterbr)**: monta folhas de impressão de cartas Pokémon e gera o PDF no navegador, com medida exata e marcas de corte. | React 19, Vite, jsPDF |
